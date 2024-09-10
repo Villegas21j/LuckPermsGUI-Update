@@ -1,8 +1,8 @@
 name: LuckPermsGUI
 main: com.bghddevelopment.LuckPemsGUI.LuckPermsGUI
-version: 4.6
-author: BGHDDevelopmentLLC
-website: https://bghddevelopment.com
+version: 1.0
+author: Villegas21j
+website: none
 depend: [LuckPerms]
 permissions:
   luckperms.gui:
